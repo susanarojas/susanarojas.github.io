@@ -6,13 +6,11 @@ tags: [frutas, verduras]
 comments: true
 ---
 
-## Productos
 
-| Producto     | Unidad   |
-|------------- | -------- |
-|Aguacate Hass |  Kilo    |
-|Ajo	       | Cabeza   |
-|Apio Verde	   | Mata     |
+
+
+
+
 
 
 
@@ -22,7 +20,7 @@ You can add notification, warning and error boxes like this:
 ### Notification
 
 {: .box-note}
-**Note:** This is a notification box.
+**Note:** Sus frutas a la puerta de su casa. Vea [lista]
 
 ### Warning
 
@@ -33,3 +31,5 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+[lista]: productos
