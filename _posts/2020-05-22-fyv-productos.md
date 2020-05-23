@@ -6,30 +6,9 @@ tags: [frutas, verduras]
 comments: true
 ---
 
-
-
-
-
-
-
-
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+### Frutas y Verduras en su domicilio
 
 {: .box-note}
-**Note:** Sus frutas a la puerta de su casa. Vea [lista]
+**Consulte:**  [lista de productos]
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-[lista]: productos
+[lista de productos]: ./productos
