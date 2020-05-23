@@ -2,8 +2,6 @@
 layout: post
 title: Productos
 subtitle: Frutas y Verduras
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [frutas, verduras]
 comments: true
 ---

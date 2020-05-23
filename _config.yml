@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Susana Rojas Frutas y Verduras
+title: Susana Rojas | Frutas y Verduras
 
 # Short description of your site
 description: A su servicio
@@ -12,7 +12,7 @@ author: Susana Rojas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Productos: "_posts/2020-05-22-fyv-productos"
+  Productos: "2020-05-22-fyv-productos"
   Condiciones: "fyv-condiciones"
 ##    - Beautiful Jekyll: "https://beautifuljekyll.com"
 ##    - Learn markdown: "https://www.markdowntutorial.com/"
