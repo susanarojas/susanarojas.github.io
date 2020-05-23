@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: Roy Martínez
+title: Susana Rojas Frutas y Verduras
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: A su servicio
 
 # Your name to show in the footer
-author: Roy Martínez
+author: Susana Rojas
 
 # --- List of links in the navigation bar --- #
 
@@ -38,20 +38,20 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-#  facebook: deanattali
-  github: martinezrm
+  email: "srojasboza@gmail.com"
+#  facebook: susana
+#  github: martinezrm
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
-  linkedin: martinezroy
+#  linkedin: martinezroy
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +50688744629
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
