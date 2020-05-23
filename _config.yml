@@ -12,11 +12,11 @@ author: Susana Rojas
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Productos: "_posts/2020-05-22-fyv-productos"
+  Condiciones: "fyv-condiciones"
+##    - Beautiful Jekyll: "https://beautifuljekyll.com"
+##    - Learn markdown: "https://www.markdowntutorial.com/"
+  Método Pago: "fyv-metodo-pago"
 
 # --- Logo --- #
 
