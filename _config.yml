@@ -12,11 +12,11 @@ author: Susana Rojas v0.0.3
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Productos: "https://susanarojas.github.io/2020-05-22-fyv-productos"
-  Condiciones: "fyv-condiciones"
+  Productos: "productos"
+  Condiciones: "condiciones"
 ##    - Beautiful Jekyll: "https://beautifuljekyll.com"
 ##    - Learn markdown: "https://www.markdowntutorial.com/"
-  Método Pago: "fyv-metodo-pago"
+  Método Pago: "metodo-pago"
 
 # --- Logo --- #
 
